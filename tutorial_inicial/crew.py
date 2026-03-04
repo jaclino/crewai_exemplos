@@ -5,7 +5,7 @@ from crewai.project import CrewBase, agent, crew, task
 # from agencia_noticias.tools.custom_tool import MyCustomTool
 
 # Check our tools documentations for more information on how to use them
-# from crewai_tools import ScrapeWebsiteTool comentario
+# from crewai_tools import ScrapeWebsiteTool fsfdsfsdfsd
 
 # from langchain_community.tools import DuckDuckGoSearchRun
 # scrape_tool = DuckDuckGoSearchRun()
